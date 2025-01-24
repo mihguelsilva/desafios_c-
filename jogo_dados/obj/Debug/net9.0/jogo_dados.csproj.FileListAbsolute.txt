@@ -1,0 +1,15 @@
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.sourcelink.json
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/bin/Debug/net9.0/jogo_dados
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/bin/Debug/net9.0/jogo_dados.deps.json
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/bin/Debug/net9.0/jogo_dados.runtimeconfig.json
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/bin/Debug/net9.0/jogo_dados.dll
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/bin/Debug/net9.0/jogo_dados.pdb
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.dll
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/refint/jogo_dados.dll
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.pdb
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/jogo_dados.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/desafios_c#/jogo_dados/obj/Debug/net9.0/ref/jogo_dados.dll
