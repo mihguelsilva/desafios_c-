@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/switch_case/bin/Debug/net9.0/switch_case
+/home/mihguelsilva/Documentos/dotnet/switch_case/bin/Debug/net9.0/switch_case.deps.json
+/home/mihguelsilva/Documentos/dotnet/switch_case/bin/Debug/net9.0/switch_case.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/switch_case/bin/Debug/net9.0/switch_case.dll
+/home/mihguelsilva/Documentos/dotnet/switch_case/bin/Debug/net9.0/switch_case.pdb
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.dll
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/refint/switch_case.dll
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.pdb
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/switch_case.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/switch_case/obj/Debug/net9.0/ref/switch_case.dll

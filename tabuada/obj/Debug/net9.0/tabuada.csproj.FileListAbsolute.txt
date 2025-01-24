@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/tabuada/bin/Debug/net9.0/tabuada
+/home/mihguelsilva/Documentos/dotnet/tabuada/bin/Debug/net9.0/tabuada.deps.json
+/home/mihguelsilva/Documentos/dotnet/tabuada/bin/Debug/net9.0/tabuada.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/tabuada/bin/Debug/net9.0/tabuada.dll
+/home/mihguelsilva/Documentos/dotnet/tabuada/bin/Debug/net9.0/tabuada.pdb
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.dll
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/refint/tabuada.dll
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.pdb
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/tabuada.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/tabuada/obj/Debug/net9.0/ref/tabuada.dll

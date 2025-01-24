@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/calculadora/bin/Debug/net9.0/calculadora
+/home/mihguelsilva/Documentos/dotnet/calculadora/bin/Debug/net9.0/calculadora.deps.json
+/home/mihguelsilva/Documentos/dotnet/calculadora/bin/Debug/net9.0/calculadora.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/calculadora/bin/Debug/net9.0/calculadora.dll
+/home/mihguelsilva/Documentos/dotnet/calculadora/bin/Debug/net9.0/calculadora.pdb
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.dll
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/refint/calculadora.dll
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.pdb
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/calculadora.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/calculadora/obj/Debug/net9.0/ref/calculadora.dll

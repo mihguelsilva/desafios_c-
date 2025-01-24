@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/par_impar/bin/Debug/net9.0/par_impar
+/home/mihguelsilva/Documentos/dotnet/par_impar/bin/Debug/net9.0/par_impar.deps.json
+/home/mihguelsilva/Documentos/dotnet/par_impar/bin/Debug/net9.0/par_impar.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/par_impar/bin/Debug/net9.0/par_impar.dll
+/home/mihguelsilva/Documentos/dotnet/par_impar/bin/Debug/net9.0/par_impar.pdb
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.dll
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/refint/par_impar.dll
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.pdb
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/par_impar.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/par_impar/obj/Debug/net9.0/ref/par_impar.dll

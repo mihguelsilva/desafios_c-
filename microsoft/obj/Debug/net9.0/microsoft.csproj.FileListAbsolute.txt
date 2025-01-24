@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/microsoft/bin/Debug/net9.0/microsoft
+/home/mihguelsilva/Documentos/dotnet/microsoft/bin/Debug/net9.0/microsoft.deps.json
+/home/mihguelsilva/Documentos/dotnet/microsoft/bin/Debug/net9.0/microsoft.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/microsoft/bin/Debug/net9.0/microsoft.dll
+/home/mihguelsilva/Documentos/dotnet/microsoft/bin/Debug/net9.0/microsoft.pdb
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.dll
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/refint/microsoft.dll
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.pdb
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/microsoft.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/microsoft/obj/Debug/net9.0/ref/microsoft.dll

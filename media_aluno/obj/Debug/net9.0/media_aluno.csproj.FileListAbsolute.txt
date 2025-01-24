@@ -1,0 +1,14 @@
+/home/mihguelsilva/Documentos/dotnet/media_aluno/bin/Debug/net9.0/media_aluno
+/home/mihguelsilva/Documentos/dotnet/media_aluno/bin/Debug/net9.0/media_aluno.deps.json
+/home/mihguelsilva/Documentos/dotnet/media_aluno/bin/Debug/net9.0/media_aluno.runtimeconfig.json
+/home/mihguelsilva/Documentos/dotnet/media_aluno/bin/Debug/net9.0/media_aluno.dll
+/home/mihguelsilva/Documentos/dotnet/media_aluno/bin/Debug/net9.0/media_aluno.pdb
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.AssemblyInfoInputs.cache
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.AssemblyInfo.cs
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.csproj.CoreCompileInputs.cache
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.dll
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/refint/media_aluno.dll
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.pdb
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/media_aluno.genruntimeconfig.cache
+/home/mihguelsilva/Documentos/dotnet/media_aluno/obj/Debug/net9.0/ref/media_aluno.dll
